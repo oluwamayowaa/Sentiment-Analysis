@@ -8,4 +8,4 @@ Tweets were crawled using tweepy API and sentiment polarity was determined by fe
 
 1. airbnb.csv contains scraped tweets.
 2. airbnb__.csv contains cleaned tweets.
-3. twitter-sentiment-analysis is the jupyter notebook file that contains the code.
+3. twitter_sentiment_analysis is the jupyter notebook file that contains the code.
